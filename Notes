@@ -1,0 +1,7 @@
+Notes.
+
+How to install programm (from konradoberwimmer github)
+Du brauchst minimal ein .NET 8.0 SDK und ein Windows 10+ System. 
+Dann kannst du nach dem Checkout entweder über eine PowerShell builden (dotnet build ...) oder aber aus einer IDE heraus. 
+Das freie Visual Studio Code sollte reichen, um die Solution (=Projektmappe) zu öffnen und auf einen angebotenen Button zu klicken, um zu builden und auszuführen/debuggen.
+Wenn es dir nur um die Verwendung geht, ist der Installer (msi) auch beim Release-Tag dabei zum Download.
